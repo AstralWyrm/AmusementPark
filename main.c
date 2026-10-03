@@ -1,9 +1,4 @@
 // CS Amusement Park
-// main.c
-// Written by <YOUR-NAME>, <YOUR-ZID>
-// on <TODAYS-DATE>
-//
-// <PROGRAM DESCRIPTION>
 
 #include <stdio.h>
 
