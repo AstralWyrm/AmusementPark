@@ -66,9 +66,3 @@ CS Amusement Park 是一个使用 C 语言实现的命令行游乐园管理模�
 clang -std=c11 -Wall -Wextra cs_amusement_park.c main.c -o cs_amusement_park
 ./cs_amusement_park
 ```
-
-在 UNSW CSE 环境中，可使用 `dcc` 进行内存泄漏检查：
-
-```bash
-dcc cs_amusement_park.c main.c --leak-check -o cs_amusement_park
-```
