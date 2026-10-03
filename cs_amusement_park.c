@@ -1,6 +1,6 @@
 // CS Amusement Park
 // cs_amusement_park.c
-// Written by <Yi Han>, <z5614040>
+// Written by <Yi Han>
 // on <15/04/2025>
 
 ////////////////////////////////////////////////////////////////////////////////
